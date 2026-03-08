@@ -2,7 +2,10 @@
 
 Welcome to my GitHub profile!  
 I’m a developer passionate about building clean, interactive, and modern web applications.
-
+---
+![Profile views](https://komarev.com/ghpvc/?username=NoneUnknown01000001&color=blue)
+![Followers](https://img.shields.io/github/followers/NoneUnknown01000001?style=social)
+![Stars](https://img.shields.io/github/stars/NoneUnknown01000001?style=social)
 ---
 
 ## 🚀 What I Do
