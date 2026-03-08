@@ -37,14 +37,6 @@ A simple utility to dynamically create and style headers in web applications.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoneUnknown01000001&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoneUnknown01000001&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 - GitHub: [NoneUnknown01000001](https://github.com/NoneUnknown01000001)
 
