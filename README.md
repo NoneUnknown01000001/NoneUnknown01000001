@@ -1,21 +1,23 @@
-# 👋 Hi, I'm NoneUnknown01000001
+# 👋 Hi, I'm Said Abdullah "Asadi"
 
 Welcome to my GitHub profile!  
-I’m passionate about building clean, efficient, and creative solutions with JavaScript and beyond.
+I’m a developer passionate about building clean, interactive, and modern web applications.
 
 ---
 
 ## 🚀 What I Do
-- 💻 Develop lightweight JavaScript utilities
-- 🌐 Explore web development and open-source contributions
-- 📚 Constantly learning new technologies
+- 💻 Frontend development with **React**
+- 🎨 Styling with **Tailwind CSS** and **Bootstrap**
+- 🎬 Animations with **GSAP**
+- 🌐 Exploring open-source contributions and creative projects
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** JavaScript, HTML, CSS  
-- **Tools:** Git, VS Code  
-- **Interests:** Frontend development, UI/UX design, open-source projects
+## 🛠 Tech Stack & Tools
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,gsap,git,vscode" />
+</p>
 
 ---
 
@@ -26,9 +28,17 @@ A simple utility to dynamically create and style headers in web applications.
 ---
 
 ## 🌱 Currently Learning
-- Advanced JavaScript concepts
-- Modern frontend frameworks (React, Vue)
-- Best practices for open-source collaboration
+- Advanced React patterns
+- Performance optimization in frontend apps
+- UI/UX best practices
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoneUnknown01000001&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoneUnknown01000001&layout=compact&theme=radical" />
+</p>
 
 ---
 
