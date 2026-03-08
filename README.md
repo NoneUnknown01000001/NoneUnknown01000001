@@ -24,9 +24,30 @@ I’m a developer passionate about building clean, interactive, and modern web a
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
+
 ### [Header-JavaScript](https://github.com/NoneUnknown01000001/Header-JavaScript)
-A simple utility to dynamically create and style headers in web applications.
+A lightweight JavaScript utility for dynamically creating and styling headers in web applications.
+
+---
+
+### [My-Portfolio](https://github.com/NoneUnknown01000001/My-Portfolio)
+A personal portfolio built with modern frontend tools to showcase skills, projects, and achievements.
+
+---
+
+### [Coffee-Shop](https://github.com/NoneUnknown01000001/coffee-shop)
+A responsive website for a coffee shop, featuring menu sections, stylish layouts, and smooth user experience.
+
+---
+
+### [Hair-Salon-Men](https://github.com/NoneUnknown01000001/Hair-Salon-Men)
+A sleek and professional website design for a men’s hair salon, highlighting services and modern UI elements.
+
+[![Header-JavaScript](https://img.shields.io/badge/Project-Header--JavaScript-blue)](https://github.com/NoneUnknown01000001/Header-JavaScript)
+[![My-Portfolio](https://img.shields.io/badge/Project-My--Portfolio-green)](https://github.com/NoneUnknown01000001/My-Portfolio)
+[![Coffee-Shop](https://img.shields.io/badge/Project-Coffee--Shop-brown)](https://github.com/NoneUnknown01000001/coffee-shop)
+[![Hair-Salon-Men](https://img.shields.io/badge/Project-Hair--Salon--Men-black)](https://github.com/NoneUnknown01000001/Hair-Salon-Men)
 
 ---
 
