@@ -41,13 +41,9 @@ A responsive website for a coffee shop, featuring menu sections, stylish layouts
 
 ---
 
-### [Hair-Salon-Men](https://github.com/NoneUnknown01000001/Hair-Salon-Men)
-A sleek and professional website design for a men’s hair salon, highlighting services and modern UI elements.
-
 [![Header-JavaScript](https://img.shields.io/badge/Project-Header--JavaScript-blue)](https://github.com/NoneUnknown01000001/Header-JavaScript)
 [![My-Portfolio](https://img.shields.io/badge/Project-My--Portfolio-green)](https://github.com/NoneUnknown01000001/My-Portfolio)
 [![Coffee-Shop](https://img.shields.io/badge/Project-Coffee--Shop-brown)](https://github.com/NoneUnknown01000001/coffee-shop)
-[![Hair-Salon-Men](https://img.shields.io/badge/Project-Hair--Salon--Men-black)](https://github.com/NoneUnknown01000001/Hair-Salon-Men)
 
 ---
 
