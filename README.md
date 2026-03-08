@@ -29,7 +29,7 @@ I love building clean, interactive, and modern web applications.
 ## 🛠 Tech Stack & Tools
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,gsap,git,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,gsap,git,vscode,npm,github" />
 </p>
 
 ---
